@@ -2975,7 +2975,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "49424665-074e-4373-a340-b0ac7e967847")
+		(uuid "49424665-074e-4373-a340-b0ac7e967848")
 	)
 	(label "VCC"
 		(at 15.24 146.05 0)
@@ -2985,7 +2985,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "49424665-074e-4373-a340-b0ac7e967847")
+		(uuid "49424665-074e-4373-a340-b0ac7e967849")
 	)
 	(label "OUT5V"
 		(at 24.13 144.78 0)
@@ -2995,7 +2995,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "49424665-074e-4373-a340-b0ac7e967847")
+		(uuid "49424665-074e-4373-a340-b0ac7e96784a")
 	)
 	(label "OUT5V"
 		(at 91.44 139.7 0)
@@ -3005,7 +3005,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "49424665-074e-4373-a340-b0ac7e967847")
+		(uuid "49424665-074e-4373-a340-b0ac7e96784b")
 	)
 	(label "VCC"
 		(at 140.97 134.62 0)
@@ -3015,7 +3015,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "49424665-074e-4373-a340-b0ac7e967847")
+		(uuid "49424665-074e-4373-a340-b0ac7e96784c")
 	)
 	(label "VCC"
 		(at 157.48 50.8 0)
@@ -3035,7 +3035,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "b4cd6b1b-20c9-4315-bb4a-d55b85563d3e")
+		(uuid "b4cd6b1b-20c9-4315-bb4a-d55b85563d3f")
 	)
 	(label "3V3"
 		(at 215.9 43.18 0)
@@ -3045,7 +3045,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "b4cd6b1b-20c9-4315-bb4a-d55b85563d3e")
+		(uuid "b4cd6b1b-20c9-4315-bb4a-d55b85563d40")
 	)
 	(label "3V3"
 		(at 228.6 74.93 0)
@@ -3055,7 +3055,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "b4cd6b1b-20c9-4315-bb4a-d55b85563d3e")
+		(uuid "b4cd6b1b-20c9-4315-bb4a-d55b85563d41")
 	)
 	(label "12V"
 		(at 34.29 69.85 0)
@@ -3075,7 +3075,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "d9a9d84a-c32e-45b9-b4e4-7f7fe30a228d")
+		(uuid "d9a9d84a-c32e-45b9-b4e4-7f7fe30a228e")
 	)
 	(label "12VIN"
 		(at 109.22 58.42 0)
@@ -3085,7 +3085,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "d9a9d84a-c32e-45b9-b4e4-7f7fe30a228d")
+		(uuid "d9a9d84a-c32e-45b9-b4e4-7f7fe30a228f")
 	)
 	(label "12VIN"
 		(at 82.55 71.12 0)
@@ -3095,7 +3095,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "d9a9d84a-c32e-45b9-b4e4-7f7fe30a228d")
+		(uuid "d9a9d84a-c32e-45b9-b4e4-7f7fe30a2290")
 	)
 	(hierarchical_label "NEUTRAL"
 		(shape input)
@@ -3117,7 +3117,7 @@
 			)
 			(justify right)
 		)
-		(uuid "d5065acb-ac90-4e07-92fe-8d8294ed5173")
+		(uuid "d5065acb-ac90-4e07-92fe-8d8294ed5174")
 	)
 	(hierarchical_label "12V"
 		(shape input)
