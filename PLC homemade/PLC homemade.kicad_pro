@@ -613,6 +613,10 @@
     [
       "152f83be-52d6-49bf-8437-949cb175c923",
       "Root"
+    ],
+    [
+      "206ffe26-9c74-474c-9601-4af431c0356c",
+      "ETHERNET"
     ]
   ],
   "text_variables": {}
