@@ -3166,4 +3166,46 @@
 			)
 		)
 	)
+	(sheet
+		(at 207.01 137.16)
+		(size 60.96 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f5a40a96-6ce8-48e3-ae8e-9eb99fe87438")
+		(property "Sheetname" "ESP"
+			(at 207.01 136.4484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP.kicad_sch"
+			(at 207.01 163.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PLC homemade"
+				(path "/152f83be-52d6-49bf-8437-949cb175c923/206ffe26-9c74-474c-9601-4af431c0356c/8fb64de6-c896-4577-8763-e28849f83596/6ac5e77b-6af3-438f-b539-14afc98dea7d/58e05c6e-6b39-4026-a2a7-0a1b1e19bf35/65c884d1-f87c-4356-98e0-ebde83caffd4"
+					(page "7")
+				)
+			)
+		)
+	)
 )
