@@ -49,16 +49,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "ON Semiconductor"
+			(property "Description" "Bipolar _BJT_ Transistor Array 2 NPN _Dual_ 45V 100mA 100MHz 380mW Surface Mount SC-88/SC70-6/SOT-363"
 				(at 0 0 0)
 				(effects
 					(font
@@ -68,7 +59,7 @@
 					(hide yes)
 				)
 			)
-			(property "DESCRIPTION" "Bipolar _BJT_ Transistor Array 2 NPN _Dual_ 45V 100mA 100MHz 380mW Surface Mount SC-88/SC70-6/SOT-363"
+			(property "MF" "ON Semiconductor"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1731,7 +1722,7 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "ac1aab57-ba55-4ef4-84f4-1950ecb0d59e")
+		(uuid "ac1aab57-ba55-4ef4-84f4-1950ecb0d59f")
 	)
 	(label "DTR"
 		(at 190.5 97.79 0)
@@ -1741,7 +1732,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "ac1aab57-ba55-4ef4-84f4-1950ecb0d59e")
+		(uuid "ac1aab57-ba55-4ef4-84f4-1950ecb0d5a0")
 	)
 	(label "BOOT"
 		(at 189.23 87.63 0)
@@ -1751,7 +1742,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "ac1aab57-ba55-4ef4-84f4-1950ecb0d59e")
+		(uuid "ac1aab57-ba55-4ef4-84f4-1950ecb0d5a1")
 	)
 	(label "USB_P"
 		(at 78.74 55.88 180)
@@ -1771,7 +1762,7 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "f81c9baa-72d3-40fd-9d0c-46fa9eebfef5")
+		(uuid "f81c9baa-72d3-40fd-9d0c-46fa9eebfef6")
 	)
 	(label "USB_N"
 		(at 25.4 58.42 0)
@@ -1781,7 +1772,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "f81c9baa-72d3-40fd-9d0c-46fa9eebfef5")
+		(uuid "f81c9baa-72d3-40fd-9d0c-46fa9eebfef7")
 	)
 	(label "USB_P"
 		(at 25.4 55.88 0)
@@ -1791,7 +1782,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "f81c9baa-72d3-40fd-9d0c-46fa9eebfef5")
+		(uuid "f81c9baa-72d3-40fd-9d0c-46fa9eebfef8")
 	)
 	(label "USB_N"
 		(at 96.52 59.69 0)
@@ -1801,7 +1792,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "f81c9baa-72d3-40fd-9d0c-46fa9eebfef5")
+		(uuid "f81c9baa-72d3-40fd-9d0c-46fa9eebfef9")
 	)
 	(label "USB_P"
 		(at 96.52 53.34 0)
@@ -1811,7 +1802,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "f81c9baa-72d3-40fd-9d0c-46fa9eebfef5")
+		(uuid "f81c9baa-72d3-40fd-9d0c-46fa9eebfefa")
 	)
 	(hierarchical_label "DPP_N"
 		(shape input)
@@ -1833,7 +1824,7 @@
 			)
 			(justify left)
 		)
-		(uuid "ef5c4c04-8210-4622-8682-52f2f54d94b4")
+		(uuid "ef5c4c04-8210-4622-8682-52f2f54d94b5")
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -2873,22 +2864,22 @@
 			)
 		)
 		(pin "1"
-			(uuid "64d71158-8021-4cc4-93ad-53d1944bfab3")
+			(uuid "64d71158-8021-4cc4-93ad-53d1944bfab4")
 		)
 		(pin "3"
-			(uuid "87d03e09-1f32-4f46-b942-18c2a06a51a4")
+			(uuid "87d03e09-1f32-4f46-b942-18c2a06a51a5")
 		)
 		(pin "4"
-			(uuid "3d25b04a-9bdc-4cc8-9296-11dc82039daf")
+			(uuid "3d25b04a-9bdc-4cc8-9296-11dc82039db0")
 		)
 		(pin "6"
-			(uuid "86e54ec8-7d23-4dfd-b806-f09c55b62d01")
+			(uuid "86e54ec8-7d23-4dfd-b806-f09c55b62d02")
 		)
 		(pin "2"
-			(uuid "a3721e44-1c57-481b-8999-e3c2a8a21c17")
+			(uuid "a3721e44-1c57-481b-8999-e3c2a8a21c18")
 		)
 		(pin "5"
-			(uuid "451b0544-31ff-419e-9c97-fe349e9e965f")
+			(uuid "451b0544-31ff-419e-9c97-fe349e9e9660")
 		)
 		(instances
 			(project ""

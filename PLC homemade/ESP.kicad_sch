@@ -2828,7 +2828,7 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "1089a4ee-3bdf-41c0-b1d0-1a1ba093dd80")
+		(uuid "1089a4ee-3bdf-41c0-b1d0-1a1ba093dd81")
 	)
 	(label "GPIO37"
 		(at 149.86 81.28 180)
@@ -2838,7 +2838,7 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "1089a4ee-3bdf-41c0-b1d0-1a1ba093dd80")
+		(uuid "1089a4ee-3bdf-41c0-b1d0-1a1ba093dd82")
 	)
 	(label "GPIO16"
 		(at 224.79 110.49 0)
@@ -2848,7 +2848,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "1089a4ee-3bdf-41c0-b1d0-1a1ba093dd80")
+		(uuid "1089a4ee-3bdf-41c0-b1d0-1a1ba093dd83")
 	)
 	(label "GPIO37"
 		(at 224.79 107.95 0)
@@ -2858,7 +2858,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "1089a4ee-3bdf-41c0-b1d0-1a1ba093dd80")
+		(uuid "1089a4ee-3bdf-41c0-b1d0-1a1ba093dd84")
 	)
 	(label "GPIO21"
 		(at 224.79 118.11 0)
@@ -2868,7 +2868,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "1089a4ee-3bdf-41c0-b1d0-1a1ba093dd80")
+		(uuid "1089a4ee-3bdf-41c0-b1d0-1a1ba093dd85")
 	)
 	(hierarchical_label "DPP_N"
 		(shape input)
@@ -2890,7 +2890,7 @@
 			)
 			(justify left)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e78")
 	)
 	(hierarchical_label "ZIG_TX"
 		(shape input)
@@ -2901,7 +2901,7 @@
 			)
 			(justify left)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e79")
 	)
 	(hierarchical_label "IIC_SCL"
 		(shape input)
@@ -2912,7 +2912,7 @@
 			)
 			(justify left)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e7a")
 	)
 	(hierarchical_label "ZIG_RX"
 		(shape input)
@@ -2923,7 +2923,7 @@
 			)
 			(justify left)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e7b")
 	)
 	(hierarchical_label "433M_R"
 		(shape input)
@@ -2934,7 +2934,7 @@
 			)
 			(justify left)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e7c")
 	)
 	(hierarchical_label "EMAC_CLK"
 		(shape input)
@@ -2945,7 +2945,7 @@
 			)
 			(justify left)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e7d")
 	)
 	(hierarchical_label "DAT_TEPP1"
 		(shape input)
@@ -2956,7 +2956,7 @@
 			)
 			(justify left)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e7e")
 	)
 	(hierarchical_label "WB_TX"
 		(shape input)
@@ -2967,7 +2967,7 @@
 			)
 			(justify left)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e7f")
 	)
 	(hierarchical_label "WB_RX"
 		(shape input)
@@ -2978,7 +2978,7 @@
 			)
 			(justify left)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e80")
 	)
 	(hierarchical_label "EMAC_CS"
 		(shape input)
@@ -2989,7 +2989,7 @@
 			)
 			(justify left)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e81")
 	)
 	(hierarchical_label "485RX"
 		(shape input)
@@ -3000,7 +3000,7 @@
 			)
 			(justify left)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e82")
 	)
 	(hierarchical_label "DAT_TEPP2"
 		(shape input)
@@ -3011,7 +3011,7 @@
 			)
 			(justify left)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e83")
 	)
 	(hierarchical_label "DPP_P"
 		(shape input)
@@ -3022,7 +3022,7 @@
 			)
 			(justify left)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e84")
 	)
 	(hierarchical_label "BOOT"
 		(shape input)
@@ -3033,7 +3033,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e85")
 	)
 	(hierarchical_label "EMAC_INT"
 		(shape input)
@@ -3044,7 +3044,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e86")
 	)
 	(hierarchical_label "EMAC_RST"
 		(shape input)
@@ -3055,7 +3055,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e87")
 	)
 	(hierarchical_label "485TX"
 		(shape input)
@@ -3066,7 +3066,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e88")
 	)
 	(hierarchical_label "IR_SD"
 		(shape input)
@@ -3077,7 +3077,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e89")
 	)
 	(hierarchical_label "SD_CD"
 		(shape input)
@@ -3088,7 +3088,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e8a")
 	)
 	(hierarchical_label "SPI_MISO"
 		(shape input)
@@ -3099,7 +3099,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e8b")
 	)
 	(hierarchical_label "SPI_MOSI"
 		(shape input)
@@ -3110,7 +3110,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e8c")
 	)
 	(hierarchical_label "SPI_CLK"
 		(shape input)
@@ -3121,7 +3121,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e8d")
 	)
 	(hierarchical_label "IIC_SDA"
 		(shape input)
@@ -3132,7 +3132,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e8e")
 	)
 	(hierarchical_label "SPI_CS"
 		(shape input)
@@ -3143,7 +3143,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e8f")
 	)
 	(hierarchical_label "INA4"
 		(shape input)
@@ -3154,7 +3154,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e90")
 	)
 	(hierarchical_label "INA3"
 		(shape input)
@@ -3165,7 +3165,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e91")
 	)
 	(hierarchical_label "INA2"
 		(shape input)
@@ -3176,7 +3176,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e92")
 	)
 	(hierarchical_label "INA1"
 		(shape input)
@@ -3187,7 +3187,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e93")
 	)
 	(hierarchical_label "EMAC_MISO"
 		(shape input)
@@ -3198,7 +3198,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e94")
 	)
 	(hierarchical_label "RESET"
 		(shape input)
@@ -3209,7 +3209,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e95")
 	)
 	(hierarchical_label "EMAC_MOSI"
 		(shape input)
@@ -3220,7 +3220,7 @@
 			)
 			(justify right)
 		)
-		(uuid "ef817089-0d4d-478b-9527-65db3ff48e77")
+		(uuid "ef817089-0d4d-478b-9527-65db3ff48e96")
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -4747,6 +4747,48 @@
 				(path "/152f83be-52d6-49bf-8437-949cb175c923/206ffe26-9c74-474c-9601-4af431c0356c/8fb64de6-c896-4577-8763-e28849f83596/6ac5e77b-6af3-438f-b539-14afc98dea7d/58e05c6e-6b39-4026-a2a7-0a1b1e19bf35/65c884d1-f87c-4356-98e0-ebde83caffd4/f5a40a96-6ce8-48e3-ae8e-9eb99fe87438"
 					(reference "R55")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 210.82 127)
+		(size 69.85 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "014e76f4-ca0d-49f0-b004-9889fd72f1c2")
+		(property "Sheetname" "Sheet08"
+			(at 210.82 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet08.kicad_sch"
+			(at 210.82 161.8746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PLC homemade"
+				(path "/152f83be-52d6-49bf-8437-949cb175c923/206ffe26-9c74-474c-9601-4af431c0356c/8fb64de6-c896-4577-8763-e28849f83596/6ac5e77b-6af3-438f-b539-14afc98dea7d/58e05c6e-6b39-4026-a2a7-0a1b1e19bf35/65c884d1-f87c-4356-98e0-ebde83caffd4/f5a40a96-6ce8-48e3-ae8e-9eb99fe87438"
+					(page "8")
 				)
 			)
 		)
