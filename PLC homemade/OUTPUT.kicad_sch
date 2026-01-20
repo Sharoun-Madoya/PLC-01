@@ -4321,7 +4321,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "1dbbb71f-6c91-4391-a757-a931487c8136")
+		(uuid "1dbbb71f-6c91-4391-a757-a931487c8137")
 	)
 	(label "NC1"
 		(at 48.26 127 270)
@@ -4331,7 +4331,7 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "1dbbb71f-6c91-4391-a757-a931487c8136")
+		(uuid "1dbbb71f-6c91-4391-a757-a931487c8138")
 	)
 	(label "COM1"
 		(at 38.1 125.73 270)
@@ -4341,7 +4341,7 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "1dbbb71f-6c91-4391-a757-a931487c8136")
+		(uuid "1dbbb71f-6c91-4391-a757-a931487c8139")
 	)
 	(label "NC5"
 		(at 153.67 128.27 270)
@@ -4461,7 +4461,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "5d523679-94cd-49fe-bc9b-377ce72c675e")
+		(uuid "5d523679-94cd-49fe-bc9b-377ce72c675f")
 	)
 	(label "COM3"
 		(at 208.28 96.52 0)
@@ -4471,7 +4471,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "5d523679-94cd-49fe-bc9b-377ce72c675e")
+		(uuid "5d523679-94cd-49fe-bc9b-377ce72c6760")
 	)
 	(label "NC2"
 		(at 251.46 87.63 0)
