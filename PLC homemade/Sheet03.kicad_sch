@@ -2383,12 +2383,13 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Polymeric PTC Resettable Fuse 8V 2A Ih Surface Mount 1812 (4532 Metric), Concave"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 					(hide yes)
 				)
 			)
@@ -2403,16 +2404,6 @@
 				)
 			)
 			(property "MOUSER-PURCHASE-URL" "https://snapeda.com/shop?store=Mouser&id=143366"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "DESCRIPTION" "Polymeric PTC Resettable Fuse 8V 2A Ih Surface Mount 1812 (4532 Metric), Concave"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6328,7 +6319,7 @@
 			)
 			(justify left)
 		)
-		(uuid "8e0e61c1-3bf0-4d30-9893-e2b02d5aea9f")
+		(uuid "8e0e61c1-3bf0-4d30-9893-e2b02d5aeaa0")
 	)
 	(hierarchical_label "CHN_4"
 		(shape input)
@@ -6405,7 +6396,7 @@
 			)
 			(justify right)
 		)
-		(uuid "fe63f325-cadd-4575-b2fb-ff9a640243c9")
+		(uuid "fe63f325-cadd-4575-b2fb-ff9a640243ca")
 	)
 	(hierarchical_label "485TX"
 		(shape input)
@@ -6416,7 +6407,7 @@
 			)
 			(justify right)
 		)
-		(uuid "fe63f325-cadd-4575-b2fb-ff9a640243c9")
+		(uuid "fe63f325-cadd-4575-b2fb-ff9a640243cb")
 	)
 	(symbol
 		(lib_id "power:GND")
