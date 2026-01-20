@@ -2767,7 +2767,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "d43fd9c3-4f29-4123-93bc-5c8cdcfac73a")
+		(uuid "d43fd9c3-4f29-4123-93bc-5c8cdcfac73b")
 	)
 	(label "SCL5V"
 		(at 64.77 87.63 0)
@@ -2787,7 +2787,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "d4786731-0e6b-4826-a37e-b981d4ee83d1")
+		(uuid "d4786731-0e6b-4826-a37e-b981d4ee83d2")
 	)
 	(hierarchical_label "IIC_SDA"
 		(shape input)
@@ -2809,7 +2809,7 @@
 			)
 			(justify left)
 		)
-		(uuid "9ae91c9b-e3b1-416d-8c05-7e25e7e3a817")
+		(uuid "9ae91c9b-e3b1-416d-8c05-7e25e7e3a818")
 	)
 	(symbol
 		(lib_id "Device:C")
