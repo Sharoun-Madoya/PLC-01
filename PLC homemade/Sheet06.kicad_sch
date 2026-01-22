@@ -2298,6 +2298,22 @@
 		(color 0 0 0 0)
 		(uuid "fa966c97-9081-4117-b6c3-aac82905bf6a")
 	)
+	(no_connect
+		(at 26.67 43.18)
+		(uuid "4f99c7f8-84da-4a87-aa04-6ca5d1949058")
+	)
+	(no_connect
+		(at 26.67 50.8)
+		(uuid "693c02bf-0c7c-4077-b01d-0584a70501fc")
+	)
+	(no_connect
+		(at 62.23 43.18)
+		(uuid "9ac09362-74d6-4944-9b3a-74c7c4362254")
+	)
+	(no_connect
+		(at 62.23 50.8)
+		(uuid "ba4c7de6-4e07-4b46-91c7-48658de9175f")
+	)
 	(wire
 		(pts
 			(xy 241.3 39.37) (xy 241.3 43.18)
@@ -3346,6 +3362,50 @@
 			)
 		)
 	)
+	(global_label "DPP_N"
+		(shape input)
+		(at 90.17 76.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b6401da9-da8d-40b6-9407-12bfb7a1936f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.2633 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DPP_P"
+		(shape input)
+		(at 90.17 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ba69bfe4-4c10-4d0c-a8c9-aba8d91b6361")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.2028 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "BOOT"
 		(shape input)
 		(at 218.44 36.83 180)
@@ -3389,28 +3449,6 @@
 				(hide yes)
 			)
 		)
-	)
-	(hierarchical_label "DPP_N"
-		(shape input)
-		(at 90.17 76.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ef5c4c04-8210-4622-8682-52f2f54d94b4")
-	)
-	(hierarchical_label "DPP_P"
-		(shape input)
-		(at 90.17 69.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ef5c4c04-8210-4622-8682-52f2f54d94b5")
 	)
 	(symbol
 		(lib_id "power:VBUS")
