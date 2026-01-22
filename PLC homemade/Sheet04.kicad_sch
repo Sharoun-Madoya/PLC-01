@@ -3271,27 +3271,49 @@
 		)
 		(uuid "ff77d0e3-8897-4f90-b1aa-30f03393c937")
 	)
-	(hierarchical_label "IIC_SCL"
-		(shape input)
-		(at 185.42 62.23 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "80e88de9-d4b4-4c5b-bfd7-758f42d20899")
-	)
-	(hierarchical_label "IIC_SDA"
+	(global_label "IIC_SDA"
 		(shape input)
 		(at 185.42 59.69 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "80e88de9-d4b4-4c5b-bfd7-758f42d2089a")
+		(uuid "2a423ff9-852c-4264-b4b0-feda0947e4eb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.4195 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IIC_SCL"
+		(shape input)
+		(at 185.42 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a716eb17-c9db-4669-af4b-a1de7b00625e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.48 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "PCF8574DGVR:PCF8574DGVR")

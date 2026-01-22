@@ -2789,27 +2789,49 @@
 		)
 		(uuid "d4786731-0e6b-4826-a37e-b981d4ee83d2")
 	)
-	(hierarchical_label "IIC_SDA"
+	(global_label "IIC_SDA"
 		(shape input)
 		(at 123.19 48.26 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "9ae91c9b-e3b1-416d-8c05-7e25e7e3a817")
+		(uuid "1a4b3d6e-f54c-4f30-893c-e9d65a3ceece")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 133.1905 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
-	(hierarchical_label "IIC_SCL"
+	(global_label "IIC_SCL"
 		(shape input)
 		(at 181.61 49.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "9ae91c9b-e3b1-416d-8c05-7e25e7e3a818")
+		(uuid "f0bffcd0-38f3-4fbb-9f97-85a4430284ee")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 191.55 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")

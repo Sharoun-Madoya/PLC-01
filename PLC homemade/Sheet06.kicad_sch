@@ -5,546 +5,6 @@
 	(uuid "d407ae7a-589c-4874-8325-bdc4727342ce")
 	(paper "A4")
 	(lib_symbols
-		(symbol "BC847BDW1T1G:BC847BDW1T1G"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at -10.16 6.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "BC847BDW1T1G"
-				(at -10.16 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "BC847BDW1T1G:SOT65P210X110-6N"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Bipolar _BJT_ Transistor Array 2 NPN _Dual_ 45V 100mA 100MHz 380mW Surface Mount SC-88/SC70-6/SOT-363"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MF" "ON Semiconductor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PACKAGE" "SOT-363 ON Semiconductor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PRICE" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "SC-88-6 ON Semiconductor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/BC847BDW1T1G/Onsemi/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/BC847BDW1T1G/Onsemi/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "BC847BDW1T1G"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "AVAILABILITY" "Unavailable"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "Bipolar (BJT) Transistor Array 2 NPN (Dual) 45V 100mA 100MHz 380mW Surface Mount SC-88/SC70-6/SOT-363"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "BC847BDW1T1G_1_0"
-				(rectangle
-					(start -0.254 -2.54)
-					(end 0.508 2.54)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -2.54) (xy 1.778 -1.524)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.524 -2.286) (xy 1.905 -2.286)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.524 -2.413) (xy 2.286 -2.413)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.54 -2.04) (xy 0.308 -1.424)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.778 -1.524) (xy 2.54 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.778 -1.778) (xy 1.524 -2.286)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.905 -2.286) (xy 1.778 -2.032)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.286 -2.413) (xy 1.778 -1.778)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy 0.508 1.524)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 1.27 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 0 0)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -5.08 90)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(symbol "BC847BDW1T1G_2_0"
-				(rectangle
-					(start -0.254 -2.54)
-					(end 0.508 2.54)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -2.54) (xy 1.778 -1.524)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.524 -2.286) (xy 1.905 -2.286)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.524 -2.413) (xy 2.286 -2.413)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.54 -2.04) (xy 0.308 -1.424)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.778 -1.524) (xy 2.54 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.778 -1.778) (xy 1.524 -2.286)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.905 -2.286) (xy 1.778 -2.032)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.286 -2.413) (xy 1.778 -1.778)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy 0.508 1.524)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 1.27 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 0 0)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -5.08 90)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -2695,18 +2155,6 @@
 		(uuid 7fadbf6d-9b51-4c55-84b6-988506e14443)
 	)
 	(rectangle
-		(start 175.26 71.12)
-		(end 262.89 120.65)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid b14427c7-46d3-4d67-8013-d160075473ed)
-	)
-	(rectangle
 		(start 13.97 13.97)
 		(end 134.62 81.28)
 		(stroke
@@ -2738,16 +2186,6 @@
 		)
 		(uuid "60878e3c-aae9-482b-8022-ddf0bcbb466f")
 	)
-	(text "BC847BDW1T1G"
-		(exclude_from_sim no)
-		(at 185.42 69.596 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "c407efcc-2847-418c-b501-72a7395881d4")
-	)
 	(text "USB TYPE C"
 		(exclude_from_sim no)
 		(at 44.196 16.256 0)
@@ -2757,12 +2195,6 @@
 			)
 		)
 		(uuid "ed003e4a-638f-40dc-afd3-0507c77a7514")
-	)
-	(junction
-		(at 231.14 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "05e04836-66a9-4fa9-af3a-abc2c7b78c8b")
 	)
 	(junction
 		(at 184.15 40.64)
@@ -2787,12 +2219,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "53c30395-0990-483b-a283-c37a51d4bfd2")
-	)
-	(junction
-		(at 207.01 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5fcccbb2-8290-4c41-b9db-675678691da6")
 	)
 	(junction
 		(at 220.98 36.83)
@@ -2855,12 +2281,6 @@
 		(uuid "a1a7349d-576c-48b5-8479-e780d2bbdb29")
 	)
 	(junction
-		(at 231.14 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a64761ee-0fda-4a5a-9a76-aa616f429b7b")
-	)
-	(junction
 		(at 220.98 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2871,12 +2291,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "db87fe50-758c-428b-a7ba-71c9264eb6c2")
-	)
-	(junction
-		(at 218.44 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e4ed64e1-a6d6-4983-b62c-c8a97b37aea4")
 	)
 	(junction
 		(at 43.18 171.45)
@@ -2896,16 +2310,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 109.22) (xy 207.01 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "03e8152f-00db-45b6-b5ff-f399d5b876e3")
-	)
-	(wire
-		(pts
 			(xy 66.04 102.87) (xy 66.04 106.68)
 		)
 		(stroke
@@ -2913,16 +2317,6 @@
 			(type default)
 		)
 		(uuid "06616edd-d0d6-44d8-8c74-d5d5cdc0c504")
-	)
-	(wire
-		(pts
-			(xy 218.44 109.22) (xy 218.44 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "092357f8-6f4a-4f21-86cc-3d04e9000a02")
 	)
 	(wire
 		(pts
@@ -3016,16 +2410,6 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 97.79) (xy 190.5 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "234b1897-8dc9-47fb-919b-4b87f9279116")
-	)
-	(wire
-		(pts
 			(xy 92.71 27.94) (xy 92.71 33.02)
 		)
 		(stroke
@@ -3043,16 +2427,6 @@
 			(type default)
 		)
 		(uuid "25fa26ae-c713-4e8c-9141-9930ad468a7b")
-	)
-	(wire
-		(pts
-			(xy 223.52 87.63) (xy 231.14 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2689d3bd-61ce-49c5-a4c1-e515a03509f2")
 	)
 	(wire
 		(pts
@@ -3236,16 +2610,6 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 87.63) (xy 213.36 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "43dd41f4-62b3-43dd-b6d3-fc76ceea88be")
-	)
-	(wire
-		(pts
 			(xy 59.69 139.7) (xy 72.39 139.7)
 		)
 		(stroke
@@ -3256,16 +2620,6 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 96.52) (xy 218.44 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d772c09-bc1f-4439-82aa-76eaabb7f5ae")
-	)
-	(wire
-		(pts
 			(xy 19.05 48.26) (xy 26.67 48.26)
 		)
 		(stroke
@@ -3273,16 +2627,6 @@
 			(type default)
 		)
 		(uuid "51f76818-b722-472e-9b64-8925a726d3c3")
-	)
-	(wire
-		(pts
-			(xy 218.44 106.68) (xy 227.33 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55c2c6c7-f005-4a8e-8baa-7ce4144b963b")
 	)
 	(wire
 		(pts
@@ -3303,16 +2647,6 @@
 			(type default)
 		)
 		(uuid "57a452aa-1025-4322-8bf0-c6eca556274a")
-	)
-	(wire
-		(pts
-			(xy 224.79 81.28) (xy 231.14 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a8f9bdb-ea1a-497b-8b95-191b64e542f4")
 	)
 	(wire
 		(pts
@@ -3396,36 +2730,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 97.79) (xy 207.01 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7ad80aa1-663e-4096-a95b-01c5631c9784")
-	)
-	(wire
-		(pts
-			(xy 208.28 92.71) (xy 208.28 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7aeea6aa-81b1-49d2-86eb-1f8ea373af82")
-	)
-	(wire
-		(pts
-			(xy 238.76 87.63) (xy 245.11 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c515268-5e5c-47fb-a103-557d40038aa2")
-	)
-	(wire
-		(pts
 			(xy 66.04 102.87) (xy 69.85 102.87)
 		)
 		(stroke
@@ -3443,36 +2747,6 @@
 			(type default)
 		)
 		(uuid "7cd1bdfe-f41a-43eb-b2f0-b74227b29c44")
-	)
-	(wire
-		(pts
-			(xy 208.28 81.28) (xy 217.17 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83027add-8269-40ea-b529-a64434d9ffe7")
-	)
-	(wire
-		(pts
-			(xy 189.23 87.63) (xy 198.12 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8350f4d5-a77c-4dee-bf26-b68b06475be8")
-	)
-	(wire
-		(pts
-			(xy 215.9 109.22) (xy 218.44 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "855812e1-c4de-41a2-83bf-c94dc68a9131")
 	)
 	(wire
 		(pts
@@ -3586,16 +2860,6 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 109.22) (xy 207.01 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a298f4ce-0a0d-493b-a53c-941cac7d49da")
-	)
-	(wire
-		(pts
 			(xy 223.52 34.29) (xy 220.98 34.29)
 		)
 		(stroke
@@ -3686,16 +2950,6 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 81.28) (xy 231.14 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bc2b35a7-e5b8-4962-9209-9a7ec9077cef")
-	)
-	(wire
-		(pts
 			(xy 72.39 129.54) (xy 39.37 129.54)
 		)
 		(stroke
@@ -3733,16 +2987,6 @@
 			(type default)
 		)
 		(uuid "c3cde89a-1089-4644-9a41-e6133b4cf0d8")
-	)
-	(wire
-		(pts
-			(xy 223.52 97.79) (xy 231.14 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c3eceaff-f8f8-447a-b2c4-70fbd6cad0da")
 	)
 	(wire
 		(pts
@@ -3786,26 +3030,6 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 87.63) (xy 231.14 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9c2ecd7-ce85-4c6b-ad94-641e8494d24e")
-	)
-	(wire
-		(pts
-			(xy 231.14 97.79) (xy 243.84 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf551b3f-6ea1-4dd3-8f85-3915186edc2c")
-	)
-	(wire
-		(pts
 			(xy 90.17 151.13) (xy 92.71 151.13)
 		)
 		(stroke
@@ -3823,16 +3047,6 @@
 			(type default)
 		)
 		(uuid "d94398e7-736e-44e6-bafe-0941a758f91f")
-	)
-	(wire
-		(pts
-			(xy 218.44 106.68) (xy 218.44 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dcaf4141-cec6-487a-9f2a-f2bd81d13de7")
 	)
 	(wire
 		(pts
@@ -3974,46 +3188,6 @@
 		)
 		(uuid "5ea7843a-4d96-4560-b0bd-396c274fdc54")
 	)
-	(label "RESET"
-		(at 245.11 87.63 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ac1aab57-ba55-4ef4-84f4-1950ecb0d59e")
-	)
-	(label "RTS"
-		(at 243.84 97.79 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ac1aab57-ba55-4ef4-84f4-1950ecb0d59f")
-	)
-	(label "DTR"
-		(at 190.5 97.79 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ac1aab57-ba55-4ef4-84f4-1950ecb0d5a0")
-	)
-	(label "BOOT"
-		(at 189.23 87.63 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ac1aab57-ba55-4ef4-84f4-1950ecb0d5a1")
-	)
 	(label "MCU_3V3"
 		(at 39.37 156.21 90)
 		(effects
@@ -4084,71 +3258,137 @@
 		)
 		(uuid "f81c9baa-72d3-40fd-9d0c-46fa9eebfefa")
 	)
-	(hierarchical_label "SPI_MOSI"
+	(global_label "SPI_MOSI"
 		(shape input)
 		(at 53.34 137.16 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "7e2b9000-e459-4254-9d15-bdcfb4f58710")
-	)
-	(hierarchical_label "SPI_CLK"
-		(shape input)
-		(at 63.5 132.08 180)
-		(effects
-			(font
-				(size 1.27 1.27)
+		(uuid "1900193f-0b86-4eeb-830d-3e0b0453c340")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 41.7067 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
 			)
-			(justify right)
 		)
-		(uuid "7e2b9000-e459-4254-9d15-bdcfb4f58710")
 	)
-	(hierarchical_label "SPI_MISO"
-		(shape input)
-		(at 58.42 127 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7e2b9000-e459-4254-9d15-bdcfb4f58710")
-	)
-	(hierarchical_label "SD_CS"
-		(shape input)
-		(at 64.77 124.46 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7e2b9000-e459-4254-9d15-bdcfb4f58710")
-	)
-	(hierarchical_label "BOOT"
-		(shape input)
-		(at 218.44 36.83 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d8bebe59-2edf-4c55-a2d9-d9733eff0640")
-	)
-	(hierarchical_label "RESET"
+	(global_label "RESET"
 		(shape input)
 		(at 180.34 38.1 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "d8bebe59-2edf-4c55-a2d9-d9733eff0640")
+		(uuid "466cd3ec-bc46-492a-b765-3ed69b76012c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 171.6097 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SPI_MISO"
+		(shape input)
+		(at 58.42 127 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6f58b1b3-c6ea-4288-9ef1-959f8cabd446")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 46.7867 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SD_CS"
+		(shape input)
+		(at 64.77 124.46 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a0c798db-af1b-42ce-a8a0-a5bdd656d208")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 55.8582 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOT"
+		(shape input)
+		(at 218.44 36.83 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d24db66a-1611-47c9-8836-26b20c844daf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 210.5562 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SPI_CLK"
+		(shape input)
+		(at 63.5 132.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e3bbb240-494c-4dcd-9b9e-650bafd83281")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 52.8948 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(hierarchical_label "DPP_N"
 		(shape input)
@@ -4171,73 +3411,6 @@
 			(justify left)
 		)
 		(uuid "ef5c4c04-8210-4622-8682-52f2f54d94b5")
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 218.44 100.33 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "01290da5-b17a-465b-8d17-3659edf581f0")
-		(property "Reference" "R53"
-			(at 214.63 100.584 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0K"
-			(at 216.408 100.33 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 220.218 100.33 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 218.44 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 218.44 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9fcc6aed-e639-4f88-af41-85dd27c6bf43")
-		)
-		(pin "2"
-			(uuid "a53c8782-ab62-4692-a489-47bcd613aa48")
-		)
-		(instances
-			(project "PLC homemade"
-				(path "/152f83be-52d6-49bf-8437-949cb175c923/206ffe26-9c74-474c-9601-4af431c0356c/8fb64de6-c896-4577-8763-e28849f83596/6ac5e77b-6af3-438f-b539-14afc98dea7d/58e05c6e-6b39-4026-a2a7-0a1b1e19bf35/65c884d1-f87c-4356-98e0-ebde83caffd4"
-					(reference "R53")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "power:VBUS")
@@ -4589,73 +3762,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 212.09 109.22 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "596a79f7-eaec-4d5d-a691-36283f3940ed")
-		(property "Reference" "R51"
-			(at 211.836 105.41 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10K"
-			(at 212.09 107.188 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 212.09 110.998 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 212.09 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 212.09 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d2721e1d-832f-4267-9b69-94e9b24d3477")
-		)
-		(pin "2"
-			(uuid "22001690-a5bb-485e-8912-69b9f38b10b4")
-		)
-		(instances
-			(project "PLC homemade"
-				(path "/152f83be-52d6-49bf-8437-949cb175c923/206ffe26-9c74-474c-9601-4af431c0356c/8fb64de6-c896-4577-8763-e28849f83596/6ac5e77b-6af3-438f-b539-14afc98dea7d/58e05c6e-6b39-4026-a2a7-0a1b1e19bf35/65c884d1-f87c-4356-98e0-ebde83caffd4"
-					(reference "R51")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 90.17 154.94 0)
 		(unit 1)
@@ -4924,209 +4030,6 @@
 		)
 	)
 	(symbol
-		(lib_id "BC847BDW1T1G:BC847BDW1T1G")
-		(at 210.82 92.71 0)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6b39433a-4d80-4f32-89a9-4366d243d14d")
-		(property "Reference" "U8"
-			(at 214.63 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BC847BDW1T1G"
-			(at 214.63 93.9799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "BC847BDW1T1G:SOT65P210X110-6N"
-			(at 210.82 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 210.82 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 210.82 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "ON Semiconductor"
-			(at 210.82 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DESCRIPTION" "Bipolar _BJT_ Transistor Array 2 NPN _Dual_ 45V 100mA 100MHz 380mW Surface Mount SC-88/SC70-6/SOT-363"
-			(at 210.82 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "SOT-363 ON Semiconductor"
-			(at 210.82 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PRICE" "None"
-			(at 210.82 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "SC-88-6 ON Semiconductor"
-			(at 210.82 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/BC847BDW1T1G/Onsemi/view-part/?ref=eda"
-			(at 210.82 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 210.82 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BC847BDW1T1G/Onsemi/view-part/?ref=snap"
-			(at 210.82 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "BC847BDW1T1G"
-			(at 210.82 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 210.82 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "AVAILABILITY" "Unavailable"
-			(at 210.82 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "Bipolar (BJT) Transistor Array 2 NPN (Dual) 45V 100mA 100MHz 380mW Surface Mount SC-88/SC70-6/SOT-363"
-			(at 210.82 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "64d71158-8021-4cc4-93ad-53d1944bfab3")
-		)
-		(pin "3"
-			(uuid "87d03e09-1f32-4f46-b942-18c2a06a51a4")
-		)
-		(pin "4"
-			(uuid "3d25b04a-9bdc-4cc8-9296-11dc82039daf")
-		)
-		(pin "6"
-			(uuid "86e54ec8-7d23-4dfd-b806-f09c55b62d01")
-		)
-		(pin "2"
-			(uuid "a3721e44-1c57-481b-8999-e3c2a8a21c17")
-		)
-		(pin "5"
-			(uuid "451b0544-31ff-419e-9c97-fe349e9e965f")
-		)
-		(instances
-			(project ""
-				(path "/152f83be-52d6-49bf-8437-949cb175c923/206ffe26-9c74-474c-9601-4af431c0356c/8fb64de6-c896-4577-8763-e28849f83596/6ac5e77b-6af3-438f-b539-14afc98dea7d/58e05c6e-6b39-4026-a2a7-0a1b1e19bf35/65c884d1-f87c-4356-98e0-ebde83caffd4"
-					(reference "U8")
-					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "USB4110GFA:USB4110GFA")
 		(at 44.45 45.72 0)
 		(unit 1)
@@ -5382,73 +4285,6 @@
 			(project "PLC homemade"
 				(path "/152f83be-52d6-49bf-8437-949cb175c923/206ffe26-9c74-474c-9601-4af431c0356c/8fb64de6-c896-4577-8763-e28849f83596/6ac5e77b-6af3-438f-b539-14afc98dea7d/58e05c6e-6b39-4026-a2a7-0a1b1e19bf35/65c884d1-f87c-4356-98e0-ebde83caffd4"
 					(reference "C52")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 227.33 106.68 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "833158cf-6dbf-4b70-9ec5-4b2e27100acf")
-		(property "Reference" "#PWR057"
-			(at 233.68 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 231.14 106.6799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 227.33 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 227.33 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "33c8f003-03ce-4c3f-85f7-5d48fa283201")
-		)
-		(instances
-			(project ""
-				(path "/152f83be-52d6-49bf-8437-949cb175c923/206ffe26-9c74-474c-9601-4af431c0356c/8fb64de6-c896-4577-8763-e28849f83596/6ac5e77b-6af3-438f-b539-14afc98dea7d/58e05c6e-6b39-4026-a2a7-0a1b1e19bf35/65c884d1-f87c-4356-98e0-ebde83caffd4"
-					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -5919,73 +4755,6 @@
 			(project "PLC homemade"
 				(path "/152f83be-52d6-49bf-8437-949cb175c923/206ffe26-9c74-474c-9601-4af431c0356c/8fb64de6-c896-4577-8763-e28849f83596/6ac5e77b-6af3-438f-b539-14afc98dea7d/58e05c6e-6b39-4026-a2a7-0a1b1e19bf35/65c884d1-f87c-4356-98e0-ebde83caffd4"
 					(reference "R77")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 234.95 87.63 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a2d7aa7b-1f5e-4500-b166-e47021cd42c7")
-		(property "Reference" "R54"
-			(at 234.696 83.82 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0K"
-			(at 234.95 85.598 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 234.95 89.408 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 234.95 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 234.95 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0253c4a2-c393-43be-8761-01f7e52e8478")
-		)
-		(pin "2"
-			(uuid "a3af3e6e-9ff6-4650-859a-93c9cc7e6a51")
-		)
-		(instances
-			(project "PLC homemade"
-				(path "/152f83be-52d6-49bf-8437-949cb175c923/206ffe26-9c74-474c-9601-4af431c0356c/8fb64de6-c896-4577-8763-e28849f83596/6ac5e77b-6af3-438f-b539-14afc98dea7d/58e05c6e-6b39-4026-a2a7-0a1b1e19bf35/65c884d1-f87c-4356-98e0-ebde83caffd4"
-					(reference "R54")
 					(unit 1)
 				)
 			)
@@ -6596,209 +5365,6 @@
 		)
 	)
 	(symbol
-		(lib_id "BC847BDW1T1G:BC847BDW1T1G")
-		(at 220.98 92.71 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e154b7bc-b7f0-4069-8e90-a70196b34aca")
-		(property "Reference" "U8"
-			(at 224.79 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BC847BDW1T1G"
-			(at 224.79 93.9799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "BC847BDW1T1G:SOT65P210X110-6N"
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "ON Semiconductor"
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DESCRIPTION" "Bipolar _BJT_ Transistor Array 2 NPN _Dual_ 45V 100mA 100MHz 380mW Surface Mount SC-88/SC70-6/SOT-363"
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "SOT-363 ON Semiconductor"
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PRICE" "None"
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "SC-88-6 ON Semiconductor"
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/BC847BDW1T1G/Onsemi/view-part/?ref=eda"
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BC847BDW1T1G/Onsemi/view-part/?ref=snap"
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "BC847BDW1T1G"
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "AVAILABILITY" "Unavailable"
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "Bipolar (BJT) Transistor Array 2 NPN (Dual) 45V 100mA 100MHz 380mW Surface Mount SC-88/SC70-6/SOT-363"
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "64d71158-8021-4cc4-93ad-53d1944bfab4")
-		)
-		(pin "3"
-			(uuid "87d03e09-1f32-4f46-b942-18c2a06a51a5")
-		)
-		(pin "4"
-			(uuid "3d25b04a-9bdc-4cc8-9296-11dc82039db0")
-		)
-		(pin "6"
-			(uuid "86e54ec8-7d23-4dfd-b806-f09c55b62d02")
-		)
-		(pin "2"
-			(uuid "a3721e44-1c57-481b-8999-e3c2a8a21c18")
-		)
-		(pin "5"
-			(uuid "451b0544-31ff-419e-9c97-fe349e9e9660")
-		)
-		(instances
-			(project ""
-				(path "/152f83be-52d6-49bf-8437-949cb175c923/206ffe26-9c74-474c-9601-4af431c0356c/8fb64de6-c896-4577-8763-e28849f83596/6ac5e77b-6af3-438f-b539-14afc98dea7d/58e05c6e-6b39-4026-a2a7-0a1b1e19bf35/65c884d1-f87c-4356-98e0-ebde83caffd4"
-					(reference "U8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "TF PUSH:TFPUSH")
 		(at 82.55 132.08 0)
 		(unit 1)
@@ -6905,73 +5471,6 @@
 			(project ""
 				(path "/152f83be-52d6-49bf-8437-949cb175c923/206ffe26-9c74-474c-9601-4af431c0356c/8fb64de6-c896-4577-8763-e28849f83596/6ac5e77b-6af3-438f-b539-14afc98dea7d/58e05c6e-6b39-4026-a2a7-0a1b1e19bf35/65c884d1-f87c-4356-98e0-ebde83caffd4"
 					(reference "Card1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 201.93 87.63 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "eb96db55-7438-46d4-9084-09091baa6664")
-		(property "Reference" "R52"
-			(at 201.676 83.82 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0K"
-			(at 201.93 85.598 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 201.93 89.408 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 201.93 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 201.93 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "de0f3e79-5acb-45bd-9a5d-495be3f3afce")
-		)
-		(pin "2"
-			(uuid "a2a0b4d7-240c-4f14-a87c-7f6225ac11a8")
-		)
-		(instances
-			(project "PLC homemade"
-				(path "/152f83be-52d6-49bf-8437-949cb175c923/206ffe26-9c74-474c-9601-4af431c0356c/8fb64de6-c896-4577-8763-e28849f83596/6ac5e77b-6af3-438f-b539-14afc98dea7d/58e05c6e-6b39-4026-a2a7-0a1b1e19bf35/65c884d1-f87c-4356-98e0-ebde83caffd4"
-					(reference "R52")
 					(unit 1)
 				)
 			)
@@ -7105,73 +5604,6 @@
 			(project "PLC homemade"
 				(path "/152f83be-52d6-49bf-8437-949cb175c923/206ffe26-9c74-474c-9601-4af431c0356c/8fb64de6-c896-4577-8763-e28849f83596/6ac5e77b-6af3-438f-b539-14afc98dea7d/58e05c6e-6b39-4026-a2a7-0a1b1e19bf35/65c884d1-f87c-4356-98e0-ebde83caffd4"
 					(reference "#PWR0157")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 220.98 81.28 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f5c4860d-4d0e-40cd-ab4c-a5edca6899a4")
-		(property "Reference" "R50"
-			(at 220.726 77.47 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10K"
-			(at 220.98 79.248 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 220.98 83.058 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 220.98 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 220.98 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "67c1ae63-60d7-40cc-b826-841dd47e6cfc")
-		)
-		(pin "2"
-			(uuid "30a6a7cc-86cd-4209-84d0-90cb9ea92583")
-		)
-		(instances
-			(project ""
-				(path "/152f83be-52d6-49bf-8437-949cb175c923/206ffe26-9c74-474c-9601-4af431c0356c/8fb64de6-c896-4577-8763-e28849f83596/6ac5e77b-6af3-438f-b539-14afc98dea7d/58e05c6e-6b39-4026-a2a7-0a1b1e19bf35/65c884d1-f87c-4356-98e0-ebde83caffd4"
-					(reference "R50")
 					(unit 1)
 				)
 			)
