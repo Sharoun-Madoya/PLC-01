@@ -4087,6 +4087,10 @@
 		(uuid "fefccdbb-b581-4228-a1a3-55ca1cc25b8f")
 	)
 	(no_connect
+		(at 222.25 203.2)
+		(uuid "0a4e5636-1ee4-4e6a-b90b-8a250d79a2b7")
+	)
+	(no_connect
 		(at 231.14 266.7)
 		(uuid "96043e6f-d910-46a1-afd2-9216e1e8306a")
 	)
@@ -4609,16 +4613,6 @@
 			(type default)
 		)
 		(uuid "3f5e865c-03e8-43ab-a659-530d39355f3b")
-	)
-	(wire
-		(pts
-			(xy 209.55 203.2) (xy 222.25 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "420a5c04-4fc5-4e89-9097-5eed09089e44")
 	)
 	(wire
 		(pts
@@ -6609,16 +6603,6 @@
 			(justify right bottom)
 		)
 		(uuid "c7605d6b-4bc9-4ba4-a001-72c684c4075b")
-	)
-	(label "DATA_R"
-		(at 209.55 203.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d3911bed-b9af-432b-9499-6a56db202a66")
 	)
 	(label "INPUT_AA0"
 		(at 186.69 31.75 0)
