@@ -3844,7 +3844,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BatteryHolder_Seiko_MS621F"
+		(property "Footprint" "BK-5058:BAT_BK-5058"
 			(at 38.1 38.1 0)
 			(effects
 				(font
